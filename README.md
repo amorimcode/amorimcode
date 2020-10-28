@@ -4,7 +4,7 @@
 
 ### Code is poetry.
 
-Just a tech lover who found how to expose his criative ideas by coding 
+Just a tech lover who found how to expose his creative ideas by coding 
 
 A clean and understandable code, as a good poem should be.
 
