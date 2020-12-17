@@ -4,9 +4,10 @@
 
 ### Code is poetry.
 
+A clean and understandable code, as a good poem should be.
+
 Just a tech lover who found how to expose his creative ideas by coding 
 
-A clean and understandable code, as a good poem should be.
 
 **Some information about me:**
 - 💻 Software Engineering student
