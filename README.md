@@ -16,7 +16,8 @@ Just a tech lover who found how to expose his creative ideas by coding
 - 🎸 Guitarist in my spare time
 
 
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=amorimcode)
+![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=amorimcode&show_icons=true&theme=dracula)
+
 
 ⚡
 
