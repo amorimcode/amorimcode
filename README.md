@@ -16,5 +16,7 @@ Just a tech lover who found how to expose his creative ideas by coding
 - 🎸 Guitarist in my spare time
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?amorimcode=anuraghazra)]()
+
 ⚡
 
