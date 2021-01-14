@@ -12,7 +12,7 @@ Just a tech lover who found how to expose his creative ideas by coding
 **Some information about me:**
 - 💻 Software Engineering student
 - 🔭 I’m currently working on React Native projects
-- 🌱 I’m currently learning JavasScript, Java, Python and SQL
+- 🌱 I’m currently learning JavaScript, Java, Python and SQL
 - 🎸 Guitarist in my spare time
 
 ***
