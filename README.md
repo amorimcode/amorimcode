@@ -15,11 +15,13 @@ Just a tech lover who found how to expose his creative ideas by coding
 - 🌱 I’m currently learning JavaScript, Java, Python and SQL
 - 🎸 Guitarist in my spare time
 
-***
-
-### 🛠️ GitHub Stats
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=amorimcode&show_icons=true&theme=dracula)
-
+<details>
+  <summary>Github Stats 📈</summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=amorimcode&theme=dracula&show_icons=true&include_all_commits=true" alt="analytics" />
+  </p>
+  <p>    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=amorimcode&theme=dracula" alt="Technologies" /></p>
+</details>
 
 ⚡
-
