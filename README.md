@@ -27,3 +27,5 @@ Just a tech lover who found how to expose his creative ideas by coding
 </details>
 
 ⚡
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=amorimcode&repo=amorimcode&countColorcountColor)
