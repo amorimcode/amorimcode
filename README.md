@@ -10,7 +10,7 @@ Just a tech lover who found how to expose his creative ideas by coding
 
 
 **Some information about me:**
-- 💻 Software Engineering student
+- 💻 Software Engineering student and Software Development intern
 - 🔭 I’m currently working on increasing my development skills
 - 🌱 I’m currently learning JavaScript, Java, Python and SQL
 - 🎸 Guitarist in my spare time
