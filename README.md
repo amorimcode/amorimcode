@@ -15,6 +15,24 @@ Just a tech lover who found how to expose his creative ideas by coding
 - 🌱 I’m currently learning JavaScript, Java, Python and SQL
 - 🎸 Guitarist in my spare time
 
+
+**Techs:**
+<div display="inline-block">
+
+  <a href="https://github.com/iagob28">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  </a>
+</div>
+
+<br/>
+
 <details>
   <summary>Github Stats 📈</summary>
   
