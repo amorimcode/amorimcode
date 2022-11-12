@@ -10,9 +10,8 @@ Just a tech lover who found how to expose his creative ideas by coding
 
 
 **Some information about me:**
-- 💻 Software Engineering student and Software Development intern
-- 🔭 I’m currently working on increasing my development skills
-- 🌱 I’m currently learning JavaScript, Java, Python and SQL
+- 💻 Software Engineering student and working as Frontend developer
+- 🔭 I’m currently studing reactjs, react-native, next, and all js ecosystem
 - 🎸 Guitarist in my spare time
 
 
