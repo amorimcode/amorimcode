@@ -2,16 +2,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bruno.amorim032@gmail.com)](mailto:bruno.amorim032@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/xmorim/)](https://www.instagram.com/xmorim/)
 
-### Code is poetry.
-
-A clean and understandable code, as a good poem should be.
-
-Just a tech lover who found how to expose his creative ideas by coding
-
 
 **Some information about me:**
 - 💻 Software Engineering student and working as Frontend developer
-- 🔭 I’m currently studing reactjs, react-native, next, and all js ecosystem
+- 🔭 I’m currently working with reactjs, react-native, next-js, and native iOS development
 - 🎸 Guitarist in my spare time
 
 
