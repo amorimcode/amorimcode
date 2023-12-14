@@ -31,17 +31,4 @@
   </a>
 </div>
 
-<br/>
-
-<details>
-  <summary>Github Stats 📈</summary>
-  
-  <p>
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?locale=en&username=amorimcode&theme=dracula&show_icons=true&include_all_commits=true" alt="analytics" />
-  </p>
-  <p>    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&username=amorimcode&theme=dracula" alt="Technologies"/></p>
-</details>
-
 ⚡
