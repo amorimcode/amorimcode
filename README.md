@@ -4,7 +4,7 @@
 
 
 **Some information about me:**
-- 💻 Software Engineering student and working as Frontend developer
+- 💻 Software Engineer
 - 🔭 I’m currently working with reactjs, react-native, next-js, and native iOS development
 - 🎸 Guitarist in my spare time
 
